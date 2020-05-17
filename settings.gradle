@@ -1,0 +1,2 @@
+rootProject.name='Challenge-Animation-Android'
+include ':app'
